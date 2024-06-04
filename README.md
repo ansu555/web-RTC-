@@ -1,5 +1,5 @@
-# PeerChat
-A peer to peer WebRTC application with controls
+# Web RTC
+
 
 # Installation
 * 1 - clone repo https://github.com/divanov11/PeerChat
